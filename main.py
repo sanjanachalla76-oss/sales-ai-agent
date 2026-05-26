@@ -2,7 +2,7 @@ from agent import SalesAgent
 
 if __name__ == "__main__":
     lead_info = {
-        "name": "Rahul",
+        "name": "Sanjana",
         "budget": 800,
         "interest_level": "high",
         "timeline": "immediate"
